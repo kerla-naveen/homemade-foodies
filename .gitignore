@@ -32,17 +32,11 @@ build/
 ### VS Code ###
 .vscode/
 
-.idea/
 
 # IDE specific files
 .idea/
-*.iml
-.classpath
-.project
-.settings/
 
 # Build artifacts
-target/
 out/
 
 # Log files
